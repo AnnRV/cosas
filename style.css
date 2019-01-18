@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+    background-color: antiquewhite;
+    background-image: url('https://images.vexels.com/media/users/3/151036/isolated/lists/0c85c70ad83968e7edecf6bf37c00f89-doodle-de-signo-de-paz-hippie-chica.png');
+     background-repeat:no-repeat;
+    
+    background-position:top right;
+    color:#333;
+  max-width: 960px;
+    margin: 0 auto;
+    font-size:16px;
+    font-family:'Indie Flower',cursive;
+}
+ol{
+    list-style-position: inside;
+}
+
+#likes h1{
+    color:yellowgreen;
+}
+#dislikes h1{
+    color:crimson;
+}
+.video{
+    padding-top: 2em;
+    padding-bottom: 1.5em;
+}
+.logo{
+    padding-bottom:.5em;
+}
+
+footer{
+    color: darkblue;
+}
